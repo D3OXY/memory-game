@@ -134,6 +134,7 @@ button {
   border-radius: var(--radius);
   animation: var(--card-enter);
   justify-content: space-evenly;
+  cursor: pointer;
 }
 
 .newgamebtn{
